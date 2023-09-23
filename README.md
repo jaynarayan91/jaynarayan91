@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img src=”![JAY NARAYAN (1)](https://github.com/jaynarayan91/jaynarayan91/assets/111702702/305300b5-20c8-46e0-a125-1b9ee5a65651)">
+![JAY NARAYAN (1)](https://github.com/jaynarayan91/jaynarayan91/assets/111702702/305300b5-20c8-46e0-a125-1b9ee5a65651)
 
 </p>
 
