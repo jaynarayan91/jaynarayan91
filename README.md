@@ -61,3 +61,7 @@ src="https://img.shields.io/github/followers/jaynarayan91?logo=github&style=for-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaynarayan91&layout=compact)](https://github.com/jaynarayan91)
 
+
+### Visitors
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=jaynarayan91&left_color=green&right_color=red)
+
