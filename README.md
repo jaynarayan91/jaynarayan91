@@ -63,5 +63,5 @@ src="https://img.shields.io/github/followers/jaynarayan91?logo=github&style=for-
 
 
 ### Visitors
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=jaynarayan91&left_color=green&right_color=red)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=jaynarayan91.jaynarayan91)](https://jaynarayan91.github.io/My-Portfolio/)
 
