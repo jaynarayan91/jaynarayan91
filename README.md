@@ -9,6 +9,8 @@ Hi 👋 My name is Jay Narayan
 
 ![Intro](./download.svg)
 
+I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+
 
 Full Stack Developer 💻
 -----------------------
